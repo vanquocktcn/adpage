@@ -1,7 +1,7 @@
 # dichvudanhvanban
-<a href="http://dichvudanhvanban.com">DICHVUDANHVANBAN.COM</a>  là website chuyên về các dịch vụ đánh máy vi tính, chỉnh sửa văn bản và các dịch vụ trên mạng internet khác như: Lấy tài liệu trên mạng, chuyển hình ảnh,... thành định dạng file word. 
+<a href="http://dichvudanhvanban.vn">DICHVUDANHVANBAN.vn</a>  là website chuyên về các dịch vụ đánh máy vi tính, chỉnh sửa văn bản và các dịch vụ trên mạng internet khác như: Lấy tài liệu trên mạng, chuyển hình ảnh,... thành định dạng file word. 
 Chúng tôi cung cấp cho bạn một giải pháp xữ lý văn bản nhanh gọn và thông minh, bạn sẽ không phải mất quá nhiều thời gian để ngồi gõ từng chữ trong sách hay tài liệu lên máy tính, hay khó khăn trong việc chuyển file từ PDF, hình ảnh tài liệu, file scan sang các định dạng word, excel thành các định dạng văn bản như bạn mong muốn.
-Với đội ngũ cộng tác viên hùng hậu, nhiệt tình và năng động, với kinh nghiệm nhiều năm trong công tác chỉnh sửa, xử lý văn bản và đánh máy vi tính. Chúng tôi cam kết đưa đến cho khách hàng <a href="http://dichvudanhvanban.com/dich-vu-danh-van-ban-thue-gia-re-tai-Ha-Noi-TP-Ho-Chi-Minh-81/">dịch vụ đánh văn bản</a> tốt nhất:
+Với đội ngũ cộng tác viên hùng hậu, nhiệt tình và năng động, với kinh nghiệm nhiều năm trong công tác chỉnh sửa, xử lý văn bản và đánh máy vi tính. Chúng tôi cam kết đưa đến cho khách hàng <a href="http://dichvudanhvanban.vn/dich-vu-danh-van-ban-thue-gia-re-tai-Ha-Noi-TP-Ho-Chi-Minh-81/">dịch vụ đánh văn bản</a> tốt nhất:
 
 -   Chuyển soạn tài liệu ở tất cả các định dạng (PDF,File Scan, Sách, Hình ảnh,…).
 -   Chuyển soạn, chỉnh sửa văn bản chính xác 99%.
